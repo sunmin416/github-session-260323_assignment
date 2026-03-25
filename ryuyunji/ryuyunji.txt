@@ -1,0 +1,4 @@
+이름: 유윤지
+관심 분야: 프론트엔드 및 디자인
+관심 언어: TypeScript
+사용 가능 언어: html/css/Js / Python / C
